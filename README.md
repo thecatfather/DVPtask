@@ -2,7 +2,7 @@
 Task1 has been completed while task2 needs a little bit of work.
 
 I have tried 2 methods for Task1:
-  1) Utilizes the colorthief library for getting dominant colors (14/15 blue correct, 13/14 yellow correct)
+  1) Utilizes the colorthief library for getting dominant colors. (14/15 blue correct, 13/14 yellow correct)
   2) Uses HSV values and range of blue colors to get mask. (13/15 blue correct, 12/14 yellow correct)
   
 To run 
