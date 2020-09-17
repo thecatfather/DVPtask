@@ -6,8 +6,9 @@ I have tried 2 methods for Task1:
   2) Uses HSV values and range of blue colors to get mask. (13/15 blue correct, 12/14 yellow correct)
   
 To run 
-``` python KTHFSDV_perception_task1_1.py for 1st method of task1
-    python KTHFSDV_perception_task1_2.py for 2nd method of task1
+``` 
+python KTHFSDV_perception_task1_1.py for 1st method of task1
+python KTHFSDV_perception_task1_2.py for 2nd method of task1
 ```
 
 For Task2:
