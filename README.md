@@ -14,6 +14,7 @@ python KTHFSDV_perception_task1_2.py for 2nd method of task1
 For Task2:
 
 I have used yolov4 to train a trafficcone detector. It detects with a high mAP score of 96-98% but does not classify cone color.
-I tried to use this model to train an newer model based on self labelled blue cones and yellow cones (basically tried transfer learning) but it gave very poor results.
+I tried to use this model to train an newer model based on self labelled blue cones and yellow cones (basically tried transfer learning) but it gave poor results.
   
-  
+-results.avi, results2.avi, results3.avi correspond to the cone object detection without using trying to detect color of the cone. Maybe threshold of cone detection can be increased. 
+-results1_1.avi and results3_1.avi correspond to (trying to) detect color of cones.
